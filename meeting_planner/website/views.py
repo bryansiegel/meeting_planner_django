@@ -1,3 +1,4 @@
+# noinspection PyUnusedLocal
 from datetime import datetime
 from urllib import request
 
