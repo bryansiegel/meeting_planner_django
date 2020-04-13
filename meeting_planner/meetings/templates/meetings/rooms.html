@@ -1,0 +1,7 @@
+<h1>Rooms</h1>
+
+<ul>
+{% for rooms in room %}
+    <li>Name: {{ rooms.name }} Floor: {{ rooms.floor_number }} # {{ rooms.room_number }}</li>
+{% endfor %}
+</ul>
