@@ -1,3 +1,5 @@
 {
-    "python.pythonPath": "/Users/bryansiegel/.local/share/virtualenvs/django_getting_started_pluralsight-FzS-llwh/bin/python"
+    "python.pythonPath": "/usr/local/bin/python3",
+    "python.linting.enabled": true,
+    "python.linting.pylintEnabled": true
 }
